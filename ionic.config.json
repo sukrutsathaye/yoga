@@ -1,0 +1,7 @@
+{
+  "name": "uniyoga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

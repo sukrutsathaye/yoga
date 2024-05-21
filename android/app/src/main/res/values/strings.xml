@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">uniyoga</string>
+    <string name="title_activity_main">uniyoga</string>
+    <string name="package_name">ionic.uniyoga</string>
+    <string name="custom_url_scheme">ionic.uniyoga</string>
+</resources>
